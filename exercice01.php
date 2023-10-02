@@ -14,4 +14,5 @@ for ($i = 0; $i<$n ; $i++){
 echo ' la moyenne est de ' .$moyenne.' / 20 ';
 
 //fsdgsfgdfgs
+//ouiouoiuoi
 ?>
